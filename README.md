@@ -17,3 +17,18 @@ Imperial Multi-cuisine
 * Water promenade
 
 ![About Akanksha Mamidga](MyMedia.md)
+
+
+---
+
+# Musical Picks
+
+This table highlights different music options that are perfect for a good listening experience and enjoyment.<br>
+
+| **Title** | **Recommendation Reason**  | **Creator**|
+|     :---:        |    :---:    |    :---:         |
+|  "Shape of You" by Ed Sheeran          |  A catchy and romantic song that became a global sensation. | Ed Sheeran|
+|  "Inception"        |  A mind-bending thriller with stunning visuals and a gripping narrative.|  Christopher Nolan |
+|  "Atomic Habits" by James Clear         |  Offers practical insights on building good habits and breaking bad ones.| James Clear |
+|  "Blinding Lights" by The Weeknd        |  A catchy and energetic song with impressive vocal performance.  | The Weeknd|
+
