@@ -48,13 +48,13 @@ new Promise((resolve, reject) => {
   // asynchronous operation
   // then in case of success
   resolve();
-  // or
-  reject("failure reason");
+  // or reject("failure reason");
 });
+
 
 ---
 
-[Creating a Javascript promise to handle asynchronous events](https://code.pieces.app/collections/javascript)
+>[Creating a Javascript promise to handle asynchronous events](https://code.pieces.app/collections/javascript)
 
 
 
