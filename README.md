@@ -46,14 +46,14 @@ This table highlights different music options that are perfect for a good listen
 
 ---
 
-new Promise((resolve, reject) => {
+''new Promise((resolve, reject) => {
   // asynchronous operation
 
   // then in case of success
   resolve();
   // or
   reject("failure reason");
-});
+});''
 
 ---
 
