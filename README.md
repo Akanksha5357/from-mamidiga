@@ -42,14 +42,18 @@ This table highlights different music options that are perfect for a good listen
 
 ###  Python code snippet
 
-> [This snippet in Python checks the total memory an object consumes](https://code.pieces.app/collections/python)
+[Creating a Javascript promise to handle asynchronous events](https://code.pieces.app/collections/javascript)
 
 ---
 
-import sys
+new Promise((resolve, reject) => {
+  // asynchronous operation
 
-a = 100;
-print(sys.getsizeof(a)) 
+  // then in case of success
+  resolve();
+  // or
+  reject("failure reason");
+});
 
----
+
 
