@@ -40,4 +40,19 @@ This table highlights different music options that are perfect for a good listen
 
 >   The difference between stupidity and genius is that genius has its limits   -  *Aristotle*
 
+### SVG code snippet
+
+> [svg stack overflow](https://stackoverflow.com/questions/50537363/what-is-it-in-svg-file)
+
+```
+
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+
+```
+
+> [svg hamburger menu](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
 
