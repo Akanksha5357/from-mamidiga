@@ -15,3 +15,5 @@ Imperial Multi-cuisine
 * City Park
 * Historic Museum
 * Water promenade
+
+![About Akanksha Mamidga](MyMedia.md)
