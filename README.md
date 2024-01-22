@@ -40,20 +40,22 @@ This table highlights different music options that are perfect for a good listen
 
 >   The difference between stupidity and genius is that genius has its limits   -  *Aristotle*
 
-###  Python code snippet
-
-[Creating a Javascript promise to handle asynchronous events](https://code.pieces.app/collections/javascript)
+# Python code snippet
 
 ---
 
 new Promise((resolve, reject) => {
   // asynchronous operation
-
   // then in case of success
   resolve();
   // or
   reject("failure reason");
 });
+
+---
+
+[Creating a Javascript promise to handle asynchronous events](https://code.pieces.app/collections/javascript)
+
 
 
 
