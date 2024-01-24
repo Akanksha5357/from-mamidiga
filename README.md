@@ -32,7 +32,7 @@ This table highlights different music options that are perfect for a good listen
 |  "Atomic Habits" by James Clear         |  Offers practical insights on building good habits and breaking bad ones.| James Clear |
 |  "Blinding Lights" by The Weeknd        |  A catchy and energetic song with impressive vocal performance.  | The Weeknd|
 
---
+---
 
 ## Quotes
 
