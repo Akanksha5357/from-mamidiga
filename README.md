@@ -28,7 +28,7 @@ Imperial Multi-cuisine
 This table highlights different music options that are perfect for a good listening experience and enjoyment.<br>
 
 | **Title** | **Recommendation Reason**  | **Creator**|
-|     :---:        |    :---:    |    :---:         |
+|     ---        |    ---    |    ---         |
 |  "Shape of You" by Ed Sheeran          |  A catchy and romantic song that became a global sensation. | Ed Sheeran|
 |  "Inception"        |  A mind-bending thriller with stunning visuals and a gripping narrative.|  Christopher Nolan |
 |  "Atomic Habits" by James Clear         |  Offers practical insights on building good habits and breaking bad ones.| James Clear |
