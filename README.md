@@ -69,7 +69,10 @@ Java<https://css-tricks.com/understanding-javascript-constructors/s>
 ---
 
 
-different to the merry\_go\_round.
+- [ ] item 1
+- [x] item 2 (it’s done!)
+- [ ] item 3
+
 
 
 
