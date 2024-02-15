@@ -63,8 +63,8 @@ new Promise((resolve, reject) => {
 ``` 
 
 
-[Understanding JavaScript Constructors](https://css-tricks.com/understanding-javascript-constructors/)
-Java<https://css-tricks.com/understanding-javascript-constructors/>
+[Understanding JavaScript Constructors](https://css-tricks.com/understanding-javascript-constructors/)<br>
+Java<https://css-tricks.com/understanding-javascript-constructors/s>
 
 ---
 
