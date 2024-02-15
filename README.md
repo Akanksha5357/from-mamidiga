@@ -36,8 +36,7 @@ This table highlights different music options that are perfect for a good listen
 
 ## Quotes
 
->   "I think that God, in creating man, somewhat overstimated his ability"
-   *Oscar Wilde* 
+>   "I think that God, in creating man, somewhat overstimated his ability" - *Oscar Wilde* 
 
 >   "The difference between stupidity and genius is that genius has its limits"   -  *Aristotle*
 
