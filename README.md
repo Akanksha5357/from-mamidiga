@@ -48,7 +48,7 @@ This table highlights different music options that are perfect for a good listen
 
 ---
 
-
+```
 
 new Promise((resolve, reject) => {
   // asynchronous operation
@@ -58,6 +58,7 @@ new Promise((resolve, reject) => {
   // or
   reject("failure reason");
 });
+``` 
 
 
 [Understanding JavaScript Constructors](https://css-tricks.com/understanding-javascript-constructors/)
