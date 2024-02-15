@@ -75,7 +75,7 @@ Java<https://css-tricks.com/understanding-javascript-constructors/s>
 
 ~~Opps, didn’t mean to do this.~~
 
-The function is $f(x) = x^2$.
+The function is $f(x) = x^2$. <br>
 $$
 g(x) = x+2
 + \pi
